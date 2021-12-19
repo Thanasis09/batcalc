@@ -21,11 +21,12 @@
   If you have any ideas of what I can also add consider messaging me on Instagram (@thanasis09gr) or on Twitter (@TLanaras)
   
   <h2>Program</h2>
-  
+ 
   Batch Calculator is open source for now, you are allowed to use it for personal and public uses but not copy and make it a new one with your names.
   
   ---------------------------------------------------------------------------------------------------------------------------------------------------
   
-  You can download the program or you can paste it into a batch file (.bat).
+  You can download the program as a batch file and use it just fine.
   
-  The program is listed below
+
+
