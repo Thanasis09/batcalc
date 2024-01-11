@@ -6,15 +6,7 @@ title Batch Calculator
 :info
 echo info: 
 echo       by Thanasis Lanaras
-echo        All right reserved, 2021
-echo        Copyright Owners: Thanasis Lanaras,
-echo                          Thanblog Sites Inc.
-    
-echo       You are allowed to use that program for personal uses and public uses,
-echo       but you are not allowed to copy that program.
-echo       you can find the owner of the program, Thanasis Lanaras on
-echo       TikTok (@thanasislanaras), On Twitter (@TLanaras), on Youtube (Thanasis09gr) and on Instagram (@thanasis09gr)
-echo       Feel free to message about adding something.
+echo       All rights reserved, 2021-2024, Thanasis Lanaras
 
 
 echo ---------------------------------------------------------------
