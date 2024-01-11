@@ -18,7 +18,6 @@
   <h1>Batch Calculator By Thanasis Lanaras</h1>
   <h2>Introduction</h2>
   Batch Calculator is a project I've been working on since the last month. So far I've added Addition, Subtraction, Multiplication, Division and Square root.
-  If you have any ideas of what I can also add consider messaging me on Instagram (@thanasis09gr) or on Twitter (@TLanaras)
   
   <h2>Program</h2>
  
